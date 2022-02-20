@@ -8,6 +8,9 @@ UGAHacks is an event that prides itself as being like none other where hackers, 
 
 Check out their [website](https://ugahacks.com/) for more information.
 
+## Theme
+This year's theme was Retro!
+
 ## Inspiration
 Given the retro theme, Shovek and I were inspired to make a retro-style game but with high quality assets and graphics. Since this was our first hackathon, they thought it would be best to try out something new neither of us had tried before, so we decided on game development. Neither of us had any experience in game development prior to this hackathon which made for quite an interesting experience. Shovek is also really into so he was inspired to make the soundtracks for our game. 
 
@@ -32,7 +35,7 @@ Since we still have a lot we didn't get to implement, next up would be items or 
 ## Project Demo
 You can play the game here: [Project Demo](https://arnavguneta.itch.io/retrovania)
 
-## Assets used for project:
+## Assets used for project
 https://assetstore.unity.com/packages/audio/sound-fx/weapons/bow-and-hammer-sound-effects-163948
 https://assetstore.unity.com/packages/2d/characters/gothicvania-cemetery-120509
 https://assetstore.unity.com/packages/audio/sound-fx/shooting-sound-177096
